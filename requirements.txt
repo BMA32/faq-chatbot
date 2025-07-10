@@ -1,0 +1,7 @@
+python-dotenv
+pytest
+openai
+langchain-openai
+langchain-chroma
+chromadb
+#sentence-transformers  # Uncomment if running with local embeddings

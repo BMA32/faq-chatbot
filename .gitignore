@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.log
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+*.envrc
+
+# VSCode/IDE
+.vscode/
+.idea/
+*.swp
+
+# Data and local DBs
+data/vector_db/
+data/*.db
+data/*.sqlite*
+data/*.bin
+
+# Tests/artifacts
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+nosetests.xml
+
+# Egg info from setuptools
+src/chatbot_faq.egg-info/
+
+# DS_Store (macOS)
+.DS_Store

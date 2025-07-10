@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "How do I create an account on TechShop?",
+    "answer": "Click 'Register' at the top right, fill in your details, and confirm your email via the link sent to you."
+  },
+  {
+    "id": 2,
+    "question": "I forgot my password. What should I do?",
+    "answer": "Go to 'Forgot Password', enter your email, and follow the instructions sent to reset your password."
+  },
+  {
+    "id": 3,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, MasterCard, American Express, PayPal, and MB Way (Portugal)."
+  },
+  {
+    "id": 4,
+    "question": "Can I pay in instalments?",
+    "answer": "Yes, we offer up to 6 interest-free instalments for Visa and MasterCard credit cards."
+  },
+  {
+    "id": 5,
+    "question": "How can I track my order status?",
+    "answer": "Go to 'My Orders' in your account, select the order, and view its status (Processing, Shipped, Delivered)."
+  },
+  {
+    "id": 6,
+    "question": "What is the delivery time for Lisbon?",
+    "answer": "Delivery to Lisbon takes 2–4 working days, depending on stock availability."
+  },
+  {
+    "id": 7,
+    "question": "How do I request a product return?",
+    "answer": "In 'My Orders', click 'Request Return', choose the reason, and follow the instructions for return shipment."
+  },
+  {
+    "id": 8,
+    "question": "What is your return policy?",
+    "answer": "You can return products within 14 days of delivery, provided they are in perfect condition and unused."
+  },
+  {
+    "id": 9,
+    "question": "Is there a return shipping fee?",
+    "answer": "No, returns are free for eligible orders within the 14-day period."
+  },
+  {
+    "id": 10,
+    "question": "How does the product warranty work?",
+    "answer": "All electronics include a 2-year warranty against manufacturing defects."
+  },
+  {
+    "id": 11,
+    "question": "Can I change my delivery address after placing the order?",
+    "answer": "Yes, as long as the order has not yet been marked as 'Shipped'."
+  },
+  {
+    "id": 12,
+    "question": "How do I cancel my order?",
+    "answer": "Go to 'My Orders', and if the order hasn’t been shipped yet, click 'Cancel Order'."
+  },
+  {
+    "id": 13,
+    "question": "I haven’t received my order on time. What should I do?",
+    "answer": "Check your order tracking in 'My Orders'. If needed, contact Customer Support."
+  },
+  {
+    "id": 14,
+    "question": "How do I get an invoice?",
+    "answer": "The invoice is automatically emailed to you once payment is confirmed."
+  },
+  {
+    "id": 15,
+    "question": "Do you deliver to the Azores and Madeira?",
+    "answer": "Yes. Delivery takes 5–7 working days and includes an additional shipping fee based on postcode."
+  },
+  {
+    "id": 16,
+    "question": "How do I apply a discount code?",
+    "answer": "Enter the promo code in the 'Discount Code' field in the shopping cart before completing your purchase."
+  },
+  {
+    "id": 17,
+    "question": "Where can I read product reviews?",
+    "answer": "On the product page, scroll down to 'Reviews' to see feedback and ratings from other customers."
+  },
+  {
+    "id": 18,
+    "question": "How do I exchange a product?",
+    "answer": "First request a return (see FAQ 7), then place a new order for the item you want once the return is processed."
+  },
+  {
+    "id": 19,
+    "question": "Do you have physical stores?",
+    "answer": "We operate online only, but we occasionally offer pop-up showrooms at selected events."
+  },
+  {
+    "id": 20,
+    "question": "My discount code isn’t working. Why?",
+    "answer": "Check that it’s still valid and meets the terms (minimum spend, eligible categories). Contact support if needed."
+  },
+  {
+    "id": 21,
+    "question": "Can I track my order via SMS?",
+    "answer": "Yes, if you opt in for SMS updates at checkout, we’ll send tracking updates via text."
+  },
+  {
+    "id": 22,
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, for orders over €50 within mainland Portugal."
+  },
+  {
+    "id": 23,
+    "question": "Can I send a gift and include a note?",
+    "answer": "Yes. Tick 'This is a gift' at checkout and write your personal message."
+  },
+  {
+    "id": 24,
+    "question": "How do I contact support?",
+    "answer": "Use the live chat on our site (bottom-right icon) or email support@techshop.com."
+  },
+  {
+    "id": 25,
+    "question": "Do you offer B2B or corporate sales?",
+    "answer": "Yes, we have special conditions for business clients. Email corporates@techshop.com for a quote."
+  },
+  {
+    "id": 26,
+    "question": "How do I update my personal information?",
+    "answer": "In 'My Profile', click 'Edit Profile' and update the relevant fields."
+  },
+  {
+    "id": 27,
+    "question": "What are your customer service hours?",
+    "answer": "Our support team is available Monday to Friday, 9am to 6pm (Lisbon time)."
+  },
+  {
+    "id": 28,
+    "question": "How do I request technical assistance?",
+    "answer": "Submit a request via the 'Technical Support' section with your order number and issue details."
+  },
+  {
+    "id": 29,
+    "question": "Will there be new product launches?",
+    "answer": "Subscribe to our newsletter to receive updates on new products and exclusive deals."
+  },
+  {
+    "id": 30,
+    "question": "Do you offer same-day delivery?",
+    "answer": "Yes, for Lisbon and Porto only. Orders must be placed before 12pm. Additional fee of €5 applies."
+  }
+]
