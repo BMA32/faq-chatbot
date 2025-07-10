@@ -152,6 +152,20 @@ Feel free to adapt or extend these targets for your workflow.
 - To increase the FAQ base, edit `data/faqs.json` — no code change needed.
 - All code is modular and can be reused for other support/chatbot projects.
 
+## Note on CI (GitHub Actions) Failures:
+
+This project uses GitHub Actions to run basic continuous integration checks, including testing imports and code quality.
+Some steps require a valid OPENAI_API_KEY to be set as a secret.
+Because this is a public portfolio project, no real API keys are included in the repository, and for security reasons, the CI will show as failed unless you add your own key.
+
+How to fix this if you fork or clone the project:
+
+- Add your own OPENAI_API_KEY as a secret in your GitHub repository settings (Settings > Secrets and variables > Actions).
+
+- Alternatively, you can comment out or skip the steps that require the key.
+
+This does not affect running the code locally, as long as you set your own key in your .env file.
+
 ## Author
 
 Bruno Malheiro
